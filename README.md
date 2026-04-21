@@ -75,5 +75,5 @@ O local Storage serve apenas como uma forma de guardar a preferência (light ou 
 Light mode é o valor default da aplicação, se o localStorage.getItem("theme") não tiver nada ou algum valor diferente de "light" ou "dark" ele vai definir automaticamente o light mode.
 
 
-discord: rodrigo9756 ou rodrigo9756#3503
-E-mail: rodrigotmt89@gmail.com
+### discord: rodrigo9756 ou rodrigo9756#3503
+### E-mail: rodrigotmt89@gmail.com
