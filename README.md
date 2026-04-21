@@ -61,19 +61,19 @@ Com isso o projeto estará rodando em `http://localhost:8080/`.
 
 # EXPLICANDO O PROJETO
 
-### O projeto foi feito em Vite React.
+O projeto foi feito em Vite React.
 
-### Eu usei tailwind para maior agilidade no desenvolvimento mas ainda uso arquivos css para partes com um css bem mais robusto Ex: a parte do botão de switch light e dark mode.
+Eu usei tailwind para maior agilidade no desenvolvimento mas ainda uso arquivos css para partes com um css bem mais robusto Ex: a parte do botão de switch light e dark mode.
 
-### tanto o tailwind quanto a font exigida foram instaladas nas dependencias do node_modules evitando requests desnecessárias para bibliotecas de fora.
+Tanto o tailwind quanto a font exigida foram instaladas nas dependencias do node_modules evitando requests desnecessárias para bibliotecas de fora.
 
-### Eu uso um hook de useContext para trabalhar com o tema de dark e light mode.
-### Eu prefiro dessa forma pois assim vc tem as cores, o theme já definido em um lugar e apenas reutiliza em todas as páginas (eu sei que esse app só tem 1 página mas desse jeito é melhor para um aplicativo que irá crescer)
+Eu uso um hook de useContext para trabalhar com o tema de dark e light mode.
+Eu prefiro dessa forma pois assim vc tem as cores, o theme já definido em um lugar e apenas reutiliza em todas as páginas (eu sei que esse app só tem 1 página mas desse jeito é melhor para um aplicativo que irá crescer)
 
-### O local Storage serve apenas como uma forma de guardar a preferência (light ou dark) para visitas futuras.
+O local Storage serve apenas como uma forma de guardar a preferência (light ou dark) para visitas futuras.
 
-### Light mode é o valor default da aplicação, se o localStorage.getItem("theme") não tiver nada ou algum valor diferente de "light" ou "dark" ele vai definir automaticamente o light mode.
+Light mode é o valor default da aplicação, se o localStorage.getItem("theme") não tiver nada ou algum valor diferente de "light" ou "dark" ele vai definir automaticamente o light mode.
 
 
-### discord: rodrigo9756 ou rodrigo9756#3503
-### E-mail: rodrigotmt89@gmail.com
+discord: rodrigo9756 ou rodrigo9756#3503
+E-mail: rodrigotmt89@gmail.com
